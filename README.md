@@ -2,7 +2,7 @@
 
 ## I'm a French developer student
 
-- 🌱 I’m currently learning Java, C, SQL and Python.
+- 🌱 I’m currently learning Java, C, SQL, Python, HTML and CSS.
 - 🏢 I'm currently looking for an internship !
 - 📫 How to reach me : leonardo.correiamendes.pro@gmail.com
 - 💻 I usually use : Visual Studio Code and Oracle SQLDeveloper
