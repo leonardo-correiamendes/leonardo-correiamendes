@@ -2,10 +2,10 @@
 
 ## I'm a French developer student
 
-- 🌱 I’m currently learning Java, C, SQL, Python, HTML and CSS.
-- 🏢 I'm currently looking for an internship !
+- 🌱 I’m currently learning Java, C, SQL, Python, Git, PHP, Angular, TypeScript, Javascript, HTML and CSS.
+- 🏢 I'm doing an internship at La Poste !
 - 📫 How to reach me : leonardo.correiamendes.pro@gmail.com
-- 💻 I usually use : Visual Studio Code and Oracle SQLDeveloper
+- 💻 I usually use : Visual Studio Code
 <!--
 **leonardo-correiamendes/leonardo-correiamendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
