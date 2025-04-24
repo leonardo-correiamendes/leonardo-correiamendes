@@ -2,7 +2,7 @@
 
 ## I'm a French developer student
 
-- 🌱 I’m currently learning Java, C, SQL, Python, Git, PHP, Angular, React, TypeScript, Javascript, HTML, CSS and Docker.
+- 🌱 I’m currently learning Java, C, C++, SQL, Python, Git, PHP, Angular, React, TypeScript, Javascript, HTML, CSS and Docker.
 - 🏢 I'm doing an internship at La Poste !
 - 📫 How to reach me : leonardo.correiamendes.pro@gmail.com
 - 💻 I usually use : Visual Studio Code
