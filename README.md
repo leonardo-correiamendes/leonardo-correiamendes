@@ -57,7 +57,7 @@
 
 ![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardo-correiamendes&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-correiamendes&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=leonardo-correiamendes&theme=tokyonight&hide_border=true)  
+<!--- ![GitHub Streak](https://streak-stats.demolab.com?user=leonardo-correiamendes&theme=tokyonight&hide_border=true)  --->
 
 ---
 
