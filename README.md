@@ -64,7 +64,7 @@
 ## 📫 How to reach me
 - 📧 Email: [leonardo.correiamendes.pro@gmail.com](mailto:leonardo.correiamendes.pro@gmail.com)  
 <!--- - 🌐 Portfolio: [leonardocm.fr](https://leonardocm.fr)  --->
-- 💼 LinkedIn: [linkedin.com/in/leonardo-correia-mendes-86b2032b8](https://www.linkedin.com/in/leonardo-correia-mendes/)  
+- 💼 LinkedIn: [linkedin.com/in/leonardo-correia-mendes](https://www.linkedin.com/in/leonardo-correia-mendes/)  
 
 ---
 
