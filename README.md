@@ -48,7 +48,7 @@
 
 - **[Reserboo](https://reserboo.fr)** → SaaS booking management (Spring Boot, Angular, PostgreSQL, Docker)  
 - **[Life Calendar](https://lifecalendar.leonardocm.fr)** → Existential calendar (Vue 3, Vite, Tailwind)  
-- **[ParaCheck](https://diego-pb.github.io/ParaCheck/)** → Paragliding logbook for FFVL (Flutter, SQLite)  
+- **[ParaCheck](https://diego-pb.github.io/ParaCheck/)** → Paragliding logbook for FFVL (Flutter, SharedPreferences)  
 <!--- - **[Mini-Games](https://flappybird.leonardocm.fr)** → Flappy Bird & Memory Game clones (HTML, CSS, JS Vanilla) --->
 
 ---
