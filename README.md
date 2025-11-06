@@ -39,7 +39,6 @@
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=flat&logo=sqlite&logoColor=white)
 ![Localstorage](https://img.shields.io/badge/LocalStorage-000000.svg?style=flat)
 
 ---
