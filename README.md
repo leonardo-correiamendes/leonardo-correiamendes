@@ -1,7 +1,9 @@
 # 👋 Hi there! I'm Leonardo Correia Mendes
 
 🎓 French **Computer Science student** (BUT Informatique, IUT Blagnac - 2023–2026)
+
 💼 Currently an **apprentice at La Poste** as IT Support & Web Developer
+
 🚀 Looking for an **alternance in Full Stack Development** for engineering school (from September 2026)
 
 ---
