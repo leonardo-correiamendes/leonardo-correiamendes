@@ -1,6 +1,6 @@
 # Leonardo Correia Mendes
 
-**Développeur full stack freelance** · Élève ingénieur logiciel à **IMT Atlantique**, en alternance chez **Elcia**
+**Développeur freelance à Nantes · Applications métier, SaaS, sites vitrines** · Élève ingénieur logiciel à **IMT Atlantique**, en alternance chez **Elcia**
 
 Je conçois et livre des produits web qui tournent en production : SaaS, outils métier, automatisations et agents IA branchés sur les outils existants. Du cadrage à la mise en ligne, avec un code propre et documenté que le client garde.
 
@@ -10,7 +10,7 @@ Je conçois et livre des produits web qui tournent en production : SaaS, outils 
 
 ## 🧑‍💻 En ce moment
 
-- 💼 **Freelance** depuis décembre 2025 : produits clients de A à Z, de l'analyse du besoin au déploiement
+- 💼 **Freelance**, à Nantes et à distance : produits clients de A à Z, de l'analyse du besoin au déploiement
 - 🏢 **Alternance ingénieur logiciel chez Elcia** depuis septembre 2026 : ERP Diapason (React, .NET, OpenEdge Progress)
 - 🎓 **Formation Ingénieur Logiciel (FIL)** à IMT Atlantique, 2026 - 2029
 - 📍 Nantes
@@ -52,9 +52,12 @@ Je conçois et livre des produits web qui tournent en production : SaaS, outils 
 | Projet | Réalisation | Stack |
 |---|---|---|
 | **[Newscard](https://app.newscard.media)** | Mini-ERP de recherche et de contact automatisé de fournisseurs : carte interactive, extraction d'e-mails, envoi automatisé, génération de contenus par IA et back-office. Plus de 800 tests automatisés. | React, FastAPI, Python, PHP, PostgreSQL, Docker |
+| **[TinyTroc](https://tinytroc.fr)** | Reprise d'un prototype Lovable jusqu'à une marketplace entre parents en production : paiement protégé jusqu'à la réception avec Stripe Connect, livraison en point relais, back-office, serveur au nom du client. | React, TypeScript, Supabase, PostgreSQL, Stripe Connect, Docker |
+| **[Carnet NEWIPAY](https://carnetnewipay.net)** | Bot WhatsApp pour les commerçants au Sénégal : une vente à crédit notée en moins d'une minute, des rappels de paiement chaque matin, en français et en wolof, avec un panneau d'administration. | Node.js, TypeScript, Fastify, PostgreSQL, WhatsApp Cloud API, React |
 | **[Reserboo](https://reserboo.fr)** | SaaS de réservation pour indépendants : bookings, paiements en ligne, gestion des clients et back-office. | Spring Boot, Angular, PostgreSQL, Stripe, Docker |
 | **[Dag Auto](https://dag-auto.fr)** | Site vitrine d'un garage : réservation en ligne, services et tarifs, notifications par e-mail. Lighthouse 99 en performance, 100 en accessibilité. | Astro, Node.js, Express, SQLite, Docker |
 | **[France Crashes 39-45](https://app.francecrashes39-45.net)** | Module mobile qui identifie un aviateur depuis sa tombe, et API sécurisée branchée sur une base documentaire en ligne depuis 2008, sans toucher à l'existant. | PHP 8.2, MariaDB, API REST, JavaScript, Docker |
+| **[Rislone Additifs](https://www.rislone-additifs.com)** | Référencement d'un site sans code en quatre langues : une adresse par page, données structurées sur chaque fiche produit, sections italienne et allemande, contrôles après chaque publication. | SEO, JSON-LD, Search Console, Python |
 
 ### Automatisation et agents IA
 
@@ -70,7 +73,7 @@ Je conçois et livre des produits web qui tournent en production : SaaS, outils 
 |---|---|---|
 | **[Dashboard IoT](https://dashboard.leonardocm.fr)** · [code](https://github.com/leonardo-correiamendes/dashboardSalles) | Plan interactif des salles de l'IUT de Blagnac et 9 métriques en temps réel (température, CO2, humidité…) issues de capteurs, avec historique. | PHP, Node-RED, MQTT, TimescaleDB, Docker |
 | **[Gestion de bibliothèque](https://bibliotheque.leonardocm.fr)** | Plateforme réalisée en équipe de trois : catalogue et réservations en Angular 21, API REST Symfony sécurisée par JWT, back-office EasyAdmin. Lead projet et front-office. | Angular, Symfony, MariaDB, JWT |
-| **[Coach Posture](https://decathlon.leonardocm.fr)** · [code](https://github.com/leonardo-correiamendes/decathlon) | Défi Decathlon de la Nuit de l'Info 2025, codé en une nuit : profilage sportif et recommandations d'exercices et de produits. | React, TypeScript, Tailwind CSS |
+| **Coach Posture** · [code](https://github.com/leonardo-correiamendes/decathlon) | Défi Decathlon de la Nuit de l'Info 2025, codé en une nuit : profilage sportif et recommandations d'exercices et de produits. | React, TypeScript, Tailwind CSS |
 | **[ParaCheck](https://diego-pb.github.io/ParaCheck/)** · [code](https://github.com/Diego-PB/ParaCheck) | Checklists pré-vol et débrief post-vol pour parapentistes, utilisable hors connexion. | Flutter, Dart |
 | **[Gestion de menus](https://restaurant.leonardocm.fr)** | Outil de gestion des menus et des plats pour restaurants. | Angular, API REST, Bootstrap |
 | **[Life Calendar](https://lifecalendar.leonardocm.fr)** · [code](https://github.com/leonardo-correiamendes/lifeCalendar) | Calendrier existentiel pour visualiser sa vie en semaines. | Vue 3, Vite, Tailwind CSS |
@@ -95,6 +98,6 @@ Je conçois et livre des produits web qui tournent en production : SaaS, outils 
 
 ## 📫 Travailler ensemble
 
-Disponible pour des missions freelance : SaaS, outils métier, automatisations et agents IA. Réponse sous 24 h.
+Disponible pour des missions freelance : applications métier, SaaS, sites vitrines, automatisations et agents IA. Réponse sous 24 h.
 
 📧 [leonardo.correiamendes.pro@gmail.com](mailto:leonardo.correiamendes.pro@gmail.com) · 🌐 [leonardocm.fr](https://leonardocm.fr) · 💼 [LinkedIn](https://www.linkedin.com/in/leonardo-correia-mendes/)
